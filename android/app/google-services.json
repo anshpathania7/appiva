@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199643573637",
+    "project_id": "appiva-internship-project",
+    "storage_bucket": "appiva-internship-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199643573637:android:b5dd3c06297149c91ae8ec",
+        "android_client_info": {
+          "package_name": "com.example.appiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199643573637-tfii6tao615i3vd8v9c4gk5u6bp6jvle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appiva",
+            "certificate_hash": "55571d8c7519b0a7c805711db3f4c9e56add151d"
+          }
+        },
+        {
+          "client_id": "199643573637-u4pcdmdj6fpna06j3rf5fv48iqqogp80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFB_EWBlG2j5pKiXN-udGNNuJnnX7KajA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199643573637-u4pcdmdj6fpna06j3rf5fv48iqqogp80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
